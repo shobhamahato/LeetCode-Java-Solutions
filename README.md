@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 191 | Number of 1 Bits | Easy |
 | 2029 | Stone Game IX | Medium |
 | 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy |
+| 2614 | Prime In Diagonal | Easy |
 | 3069 | Distribute Elements Into Two Arrays I | Easy |
 | 3345 | Smallest Divisible Digit Product I | Easy |
 | 3471 | Find the Largest Almost Missing Integer | Easy |
@@ -21,7 +22,7 @@ This repository contains my Java solutions to LeetCode problems.
 
 ## Progress
 
-- Easy: 7
+- Easy: 8
 - Medium: 1
 - Hard: 0
-- **Total: 8**
+- **Total: 9**

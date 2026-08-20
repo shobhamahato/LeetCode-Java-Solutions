@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 191 | Number of 1 Bits | Easy |
 | 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy |
 | 3069 | Distribute Elements Into Two Arrays I | Easy |
+| 3471 | Find the Largest Almost Missing Integer | Easy |
 
 ## Language
 
@@ -18,7 +19,7 @@ This repository contains my Java solutions to LeetCode problems.
 
 ## Progress
 
-- Easy: 5
+- Easy: 6
 - Medium: 0
 - Hard: 0
-- **Total: 5**
+- **Total: 6**

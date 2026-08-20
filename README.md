@@ -9,6 +9,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 7 | Reverse Integer | Easy |
 | 58 | Length of Last Word | Easy |
 | 191 | Number of 1 Bits | Easy |
+| 2029 | Stone Game IX | Medium |
 | 2160 | Minimum Sum of Four Digit Number After Splitting Digits | Easy |
 | 3069 | Distribute Elements Into Two Arrays I | Easy |
 | 3471 | Find the Largest Almost Missing Integer | Easy |
@@ -20,6 +21,6 @@ This repository contains my Java solutions to LeetCode problems.
 ## Progress
 
 - Easy: 6
-- Medium: 0
+- Medium: 1
 - Hard: 0
-- **Total: 6**
+- **Total: 7**

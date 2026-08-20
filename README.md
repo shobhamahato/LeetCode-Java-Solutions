@@ -7,6 +7,7 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem No. | Problem Name | Difficulty |
 |---|---|---|
 | 7 | Reverse Integer | Easy |
+| 38 | Count and Say | Medium |
 | 58 | Length of Last Word | Easy |
 | 191 | Number of 1 Bits | Easy |
 | 2029 | Stone Game IX | Medium |
@@ -23,6 +24,6 @@ This repository contains my Java solutions to LeetCode problems.
 ## Progress
 
 - Easy: 8
-- Medium: 1
+- Medium: 2
 - Hard: 0
-- **Total: 9**
+- **Total: 10**

@@ -16,6 +16,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 3069 | Distribute Elements Into Two Arrays I | Easy |
 | 3345 | Smallest Divisible Digit Product I | Easy |
 | 3471 | Find the Largest Almost Missing Integer | Easy |
+| 3622 | Check Divisibility by Digit Sum and Product | Easy |
 
 ## Language
 
@@ -23,7 +24,7 @@ This repository contains my Java solutions to LeetCode problems.
 
 ## Progress
 
-- Easy: 8
+- Easy: 9
 - Medium: 2
 - Hard: 0
-- **Total: 10**
+- **Total: 11**

@@ -10,6 +10,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 38          | Count and Say                                           | Medium     |
 | 58          | Length of Last Word                                     | Easy       |
 | 191         | Number of 1 Bits                                        | Easy       |
+| 1872        | Stone Game VIII                                         | Hard       |
 | 2029        | Stone Game IX                                           | Medium     |
 | 2160        | Minimum Sum of Four Digit Number After Splitting Digits | Easy       |
 | 2614        | Prime In Diagonal                                       | Easy       |
@@ -27,5 +28,5 @@ This repository contains my Java solutions to LeetCode problems.
 
 * Easy: 10
 * Medium: 2
-* Hard: 0
-* **Total: 12**
+* Hard: 1
+* **Total: 13**

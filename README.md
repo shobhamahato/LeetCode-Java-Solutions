@@ -7,6 +7,7 @@ This repository contains my Java solutions to LeetCode problems.
 | Problem No. | Problem Name                                            | Difficulty |
 | ----------- | ------------------------------------------------------- | ---------- |
 | 7           | Reverse Integer                                         | Easy       |
+| 32          | Longest Valid Parentheses                               | Hard       |
 | 38          | Count and Say                                           | Medium     |
 | 58          | Length of Last Word                                     | Easy       |
 | 191         | Number of 1 Bits                                        | Easy       |
@@ -28,5 +29,5 @@ This repository contains my Java solutions to LeetCode problems.
 
 * Easy: 10
 * Medium: 2
-* Hard: 1
-* **Total: 13**
+* Hard: 2
+* **Total: 14**

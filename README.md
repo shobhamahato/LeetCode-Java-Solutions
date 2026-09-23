@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 38          | Count and Say                                           | Medium     |
 | 58          | Length of Last Word                                     | Easy       |
 | 75          | Sort Colors                                             | Medium     |
+| 122         | Best Time to Buy and Sell Stock II                      | Medium     |
 | 154         | Find Minimum in Rotated Sorted Array II                 | Hard       |
 | 191         | Number of 1 Bits                                        | Easy       |
 | 1872        | Stone Game VIII                                         | Hard       |
@@ -30,6 +31,6 @@ This repository contains my Java solutions to LeetCode problems.
 ## Progress
 
 * Easy: 10
-* Medium: 3
+* Medium: 4
 * Hard: 3
-* **Total: 16**
+* **Total: 17**

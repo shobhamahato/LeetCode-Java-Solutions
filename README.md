@@ -13,6 +13,7 @@ This repository contains my Java solutions to LeetCode problems.
 | 75          | Sort Colors                                             | Medium     |
 | 122         | Best Time to Buy and Sell Stock II                      | Medium     |
 | 154         | Find Minimum in Rotated Sorted Array II                 | Hard       |
+| 169         | Majority Element                                        | Easy       |
 | 191         | Number of 1 Bits                                        | Easy       |
 | 1872        | Stone Game VIII                                         | Hard       |
 | 2029        | Stone Game IX                                           | Medium     |
@@ -30,7 +31,7 @@ This repository contains my Java solutions to LeetCode problems.
 
 ## Progress
 
-* Easy: 10
+* Easy: 11
 * Medium: 4
 * Hard: 3
-* **Total: 17**
+* **Total: 18**
